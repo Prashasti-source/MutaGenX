@@ -1,4 +1,3 @@
-# conda environment (/data/prashasti/evoscope_source/conda_envs/evoscope) 
 import os
 import sys
 import json
